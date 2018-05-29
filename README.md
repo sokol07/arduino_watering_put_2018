@@ -13,8 +13,8 @@
   * Thingspeak communication, visualization and statistics
   * simple website control: manual watering, checking moisture, changing triggering moisture level, changing water amoung per watering, periodic watering, visualization  
 
-###### Electric scheme in file "podlewanie_bb.pdf".
-###### Component .ino files (basic functions in separate files) are in "Component" branch.
+###### Electric scheme in file ["podlewanie_bb.pdf"](https://github.com/sokol07/arduino_watering_put_2018/blob/master/podlewanie_bb.pdf).
+###### Component .ino files (basic functions in separate files) are in ["Component" branch](https://github.com/sokol07/arduino_watering_put_2018/tree/components).
   
 ##### Abstract:  
 Main idea is to have an automatically watered station for three plants. It should be possible to leave you appartment for a dozen days without being worried about you green friends. Our device will check the moisture in pots and, if required, turn on watering. The important part is possibility to change most important parameters of the watering using a dedicated webpage.  
